@@ -31,7 +31,7 @@ This is a **Image Slider** project built using **HTML, CSS, and JavaScript**.
 
 ![Project Screensort](Screenshot1.png)
 
-## 🔗 Vedio Link
+## 🔗 Video Link
 
 https://drive.google.com/file/d/1yP0bWdCg1bS5iWc-It8dONzPok6Ko0sU/view?usp=drive_link
 
